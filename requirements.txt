@@ -1,0 +1,1 @@
+python-irodsclient==3.0.0
